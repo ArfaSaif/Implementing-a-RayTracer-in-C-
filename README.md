@@ -8,7 +8,8 @@ To see an image, easy way is to write it to a file. There are many formats, one 
 The PPM format, there is a newline character at the end of the line and we use RGB to tell the color values.
 ![image](https://user-images.githubusercontent.com/48233453/147514065-4ded59b2-ab3c-40ec-ab19-058df4ad7e4a.png)
 
-'''
+```
+
 #include <iostream>
 
 int main() {
@@ -37,4 +38,4 @@ int main() {
     }
 }
 
-'''
+```
