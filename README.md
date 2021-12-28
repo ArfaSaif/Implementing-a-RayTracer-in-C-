@@ -44,9 +44,14 @@ int main() {
 3. The RGB values range from 0 to 1. Since we are not working with high dynamic range, we will tonemap the output to the 0 to 1 range.
 
 
-#2.2 Creating an Image file
+##  2.2 Creating an Image file
 The code above will output the program output to stdout. But we want to redirect the output to a file. this can be done using this command on Windows.
 ```
 C:\Users\arfasaif\Documents\Raytracing-In-Weekend\out\build\x64-Debug\Raytracing-In-Weekend.exe > image.ppm
 ```
+You can open the file using an app called `Irfanview` or `ToyViewer` on Mac.
+![image](https://user-images.githubusercontent.com/48233453/147517673-0317ae0f-ade1-4a78-9db4-c8b51e3465e4.png)
+
+When we open the file in a text editor, it looks like this.
+![image](https://user-images.githubusercontent.com/48233453/147517742-52321bd0-27e0-41f0-9404-72538932f63e.png)
 
