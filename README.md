@@ -4,8 +4,8 @@ RayTracing In One Weekend
 
 # 2. Output an Image
 ## 2.1 The PPM Image Format
-To see an image, easy way is to write it to a file. There are many formats, one of the format that is a plain text format is a ppm file.
-The PPM format, there is a newline character at the end of the line and we use RGB to tell the color values.
+To see an image, an easy way is to write it to a file. There are many formats, one of the format is a plain text format, called a ppm file.
+For the PPM format there is a newline character at the end of the line and we use RGB to tell the color values.
 ![image](https://user-images.githubusercontent.com/48233453/147514065-4ded59b2-ab3c-40ec-ab19-058df4ad7e4a.png)
 
 ![image](https://user-images.githubusercontent.com/48233453/147517969-0da9d704-fd50-4dd0-9d62-b628c01dc263.png)
