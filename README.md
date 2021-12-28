@@ -39,4 +39,5 @@ The aliases for vec3 are point3 and color.
 ![image](https://user-images.githubusercontent.com/48233453/147523462-bb977ac4-f3f2-4006-abc9-287e60c01881.png)
 ![image](https://user-images.githubusercontent.com/48233453/147523496-c8e9f5e6-cfc2-45cc-99fa-f94e1040b08f.png)
 
+## 3.2 vec3 Utility Functions
 
