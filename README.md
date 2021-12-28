@@ -39,3 +39,14 @@ int main() {
 }
 
 ```
+1. The pixels are written out in rows with pixels left to right.
+2. The rows are written from the top to the bottom.
+3. The RGB values range from 0 to 1. Since we are not working with high dynamic range, we will tonemap the output to the 0 to 1 range.
+
+
+#2.2 Creating an Image file
+The code above will output the program output to stdout. But we want to redirect the output to a file. this can be done using this command since I'm working on Windows.
+```
+C:Users\arfasaif\Documents\Raytracing-In-Weekend\out\build\x64-Debug\Raytracing-In-Weekend.exe > image.ppm
+```
+
