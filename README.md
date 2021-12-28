@@ -25,3 +25,18 @@ You can open the file using an app called `Irfanview` or `ToyViewer` on Mac.
 When we open the file in a text editor, it looks like this.
 ![image](https://user-images.githubusercontent.com/48233453/147517888-e49b51a2-c8f0-4da4-b3c8-863c6107c9ca.png)
 
+## 2.3 Adding a Progress Indicator
+To track the progress of a long render or to identify if a run has been stalled due to an infinite loop or other problem you can add a progress indicator by outputing to `std::cout`.
+
+# The vec3 Class
+Graphics programs have classes for storing geometric vectors and colors. In many systems these vectors are 4D (3D plus a homogenous channel for colors, **and RGB plus an alpha transperancy channel for colors**).
+We will use 3 coordinates.  
+The vec3 class will be used to represent colors, locations, directions, offsets.
+The aliases for vec3 are point3 and color.
+
+## 3.1 Variables and Methods
+![image](https://user-images.githubusercontent.com/48233453/147523432-0c4fbc0a-5204-4aae-bc44-9db24f25a8bc.png)
+![image](https://user-images.githubusercontent.com/48233453/147523462-bb977ac4-f3f2-4006-abc9-287e60c01881.png)
+![image](https://user-images.githubusercontent.com/48233453/147523496-c8e9f5e6-cfc2-45cc-99fa-f94e1040b08f.png)
+
+
