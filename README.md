@@ -45,8 +45,8 @@ int main() {
 
 
 #2.2 Creating an Image file
-The code above will output the program output to stdout. But we want to redirect the output to a file. this can be done using this command since I'm working on Windows.
+The code above will output the program output to stdout. But we want to redirect the output to a file. this can be done using this command on Windows.
 ```
-C:Users\arfasaif\Documents\Raytracing-In-Weekend\out\build\x64-Debug\Raytracing-In-Weekend.exe > image.ppm
+C:\Users\arfasaif\Documents\Raytracing-In-Weekend\out\build\x64-Debug\Raytracing-In-Weekend.exe > image.ppm
 ```
 
