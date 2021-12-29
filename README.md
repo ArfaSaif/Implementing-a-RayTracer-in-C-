@@ -41,3 +41,12 @@ The aliases for vec3 are point3 and color.
 
 ## 3.2 vec3 Utility Functions
 
+![image](https://user-images.githubusercontent.com/48233453/147634489-239892fa-8107-45b2-85e3-0538d7f5e7a7.png)
+![image](https://user-images.githubusercontent.com/48233453/147634529-0a35640f-964f-4ee3-a93a-84e4f6345493.png)
+
+## 3.3 Color Utility Functions
+Create a utility function to write a single pixel's color to the standard output.
+![image](https://user-images.githubusercontent.com/48233453/147634769-f35b8b3a-2ebd-40cf-bb68-cc7cc9a27d1a.png)
+
+### Updated main() function using color class
+![image](https://user-images.githubusercontent.com/48233453/147634998-0489c1c3-48a9-442d-a166-1de38f8d2d4a.png)
