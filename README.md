@@ -50,3 +50,13 @@ Create a utility function to write a single pixel's color to the standard output
 
 ### Updated main() function using color class
 ![image](https://user-images.githubusercontent.com/48233453/147634998-0489c1c3-48a9-442d-a166-1de38f8d2d4a.png)
+
+#4 Rays, a Simple Camera, and Background
+ray tracers need a ray class that allows us to compute the color seen along a ray. The ray is a function
+P(t) = A + tb
+A  = origin of ray
+b = ray direction
+t= = is a real number (double in the code), parametrize the line
+![image](https://user-images.githubusercontent.com/48233453/147719879-b78cd814-4a46-41c1-ac54-ecf046766e22.png)
+
+![image](https://user-images.githubusercontent.com/48233453/147797980-18fd82fa-a149-466b-911c-ebfada31abd4.png)
